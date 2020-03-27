@@ -1,0 +1,39 @@
+﻿namespace Proyecto1
+{
+    enum Tipos
+    {
+        S,
+        CORCHETE_IZQUIERDO,
+        CONJNTO,
+        DOS_PUNTOS,
+        IDENTIFICADOR,
+        ASGINACION_ID,
+        NUMERO,
+        CADENA_CHAR,
+        CADENA_ENTRADA,
+        PUNTO_Y_COMA,
+        PORCENTAJE,
+        COMENTARIO_S,
+        COMENTARIO_L,
+        CONCATENACION,
+        DISYUNCION,
+        SIM_MAS,
+        SIM_ASTERISCO,
+        CORCHETE_DERECHO,
+        SIMBOLO_CONJ,
+        SIM_INTER,
+        COMA,
+        TODO,
+        SALTO,
+        TABULADOR,
+        COMILLA_D,
+        COMILLA_S,
+        DIAGONALINVERTIDA,
+        s_COMILLA_D,
+        S_MENOR,
+        S_CORCHETE,
+        DIAGONAL,
+        SIMBOLO,
+        EOF
+    }
+}
